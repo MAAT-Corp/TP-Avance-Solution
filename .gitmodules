@@ -1,0 +1,9 @@
+[submodule "TP-avance-Librairies"]
+	path = TP-avance-Librairies
+	url = git@github.com:MAAT-Corp/TP-avance-Librairies.git
+[submodule "TP-avance--Srv"]
+	path = TP-avance--Srv
+	url = git@github.com:MAAT-Corp/TP-avance--Srv.git
+[submodule "TP-avance-Client"]
+	path = TP-avance-Client
+	url = git@github.com:MAAT-Corp/TP-avance-Client.git

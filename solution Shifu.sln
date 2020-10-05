@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29609.76
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShifuCommon", "ShifuCommon\ShifuCommon.csproj", "{97451812-693D-416A-8408-95C2D86B7D27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShifuClient", "TP-avance-Client\ShifuClient.csproj", "{F179EA70-A365-4218-BC20-3589F14A6405}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShifuServ", "ShifuServ\ShifuServ.csproj", "{8DE83362-4191-493E-A816-5B77F8DE53D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShifuCommon", "TP-avance-Librairies\ShifuCommon.csproj", "{A77CF2D6-D067-43E5-B79F-A902C0EFAA34}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShifuClient", "ShifuClient\ShifuClient.csproj", "{E358F9DA-38F9-4119-9C7A-16B6F9E85DCE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShifuServ", "TP-avance--Srv\ShifuServ.csproj", "{18C45F68-0704-4816-83AC-82A23E73826B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,18 +15,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{97451812-693D-416A-8408-95C2D86B7D27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{97451812-693D-416A-8408-95C2D86B7D27}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{97451812-693D-416A-8408-95C2D86B7D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{97451812-693D-416A-8408-95C2D86B7D27}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8DE83362-4191-493E-A816-5B77F8DE53D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8DE83362-4191-493E-A816-5B77F8DE53D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8DE83362-4191-493E-A816-5B77F8DE53D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8DE83362-4191-493E-A816-5B77F8DE53D0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E358F9DA-38F9-4119-9C7A-16B6F9E85DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E358F9DA-38F9-4119-9C7A-16B6F9E85DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E358F9DA-38F9-4119-9C7A-16B6F9E85DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E358F9DA-38F9-4119-9C7A-16B6F9E85DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F179EA70-A365-4218-BC20-3589F14A6405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F179EA70-A365-4218-BC20-3589F14A6405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F179EA70-A365-4218-BC20-3589F14A6405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F179EA70-A365-4218-BC20-3589F14A6405}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A77CF2D6-D067-43E5-B79F-A902C0EFAA34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A77CF2D6-D067-43E5-B79F-A902C0EFAA34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A77CF2D6-D067-43E5-B79F-A902C0EFAA34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A77CF2D6-D067-43E5-B79F-A902C0EFAA34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18C45F68-0704-4816-83AC-82A23E73826B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18C45F68-0704-4816-83AC-82A23E73826B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18C45F68-0704-4816-83AC-82A23E73826B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18C45F68-0704-4816-83AC-82A23E73826B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
